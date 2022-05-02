@@ -1,0 +1,2 @@
+# osint
+Açık kaynak istihbaratı
