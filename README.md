@@ -297,7 +297,7 @@ Here is a small list of APIs that will be useful for automating various tasks in
   |------------------|-------------------------|-------------|-------|
   |<b>Google Custom Search JSON API</b> | https://developers.google.com/custom-search/v1/overview | Search in Google | 100 requests FREE| </br>
   |<b>Serpstack</b> | https://serpstack.com/ | Google search results to JSON | FREE | </br>
-  |<b>Serpapi</b> | https://serpapi.com</b> | Google, Baidu, Yandex, Yahoo, DuckDuckGo, Bint and many others search results | $50/5000 searches/month  | </br>
+  |<b>SerpApi</b> | https://serpapi.com</b> | Google, Baidu, Yandex, Yahoo, DuckDuckGo, Bing and many others search results | 100 successful searches per month FREE<br><br>from $50 per 5000 successfull searches per month  | </br>
   |<b>Bing Web Search API</b> | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api | Search in Bing (+instant answers and location) | 1000 transactions per month FREE | </br> 
   |<b>WolframAlpha API</b> | https://products.wolframalpha.com/api/pricing/  | Short answers, conversations, calculators and many more | from $25 per 1000 queries | </br>
   |<b>DuckDuckgo Instant Answers API</b> | https://duckduckgo.com/api | An API for some of our Instant Answers, not for full search results.  | FREE | 
