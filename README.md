@@ -1,6 +1,6 @@
 # osint
 Açık kaynak istihbaratı
-### kullanıcı adı arama
+### Kullanıcı adı arama
 1) https://whatsmyname.app/
 
 ### 100 üzeri sitede kullanıcı adı arıyan  program
